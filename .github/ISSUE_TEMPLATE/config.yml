@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Q&A / Diskusi
+    url: https://github.com/fiidev/flutter_study/discussions
+    about: Gunakan Discussion untuk pertanyaan yang bukan bug atau fitur.
